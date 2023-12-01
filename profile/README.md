@@ -1,6 +1,6 @@
 #  Ventiul 
 
-![image]()
+![image](/profile/vl-git/VL_COM0.png) 
 
 
 
